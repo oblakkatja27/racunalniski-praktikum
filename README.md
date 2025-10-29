@@ -3,7 +3,7 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
-<!-- 2. nivojski razdelek -->
+<!-- 2. nivojski razdelek --> 
 ## Bližnjice na tipkovnici
 
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
