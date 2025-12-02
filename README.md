@@ -1,3 +1,5 @@
+Dodajam link do svoje spletne strani: https://oblakkatja27.github.io/
+
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
